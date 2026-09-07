@@ -1280,6 +1280,10 @@ healthcare-claims-analytics/
 │
 ├── data/
 │   ├── README.md
+│   ├── claims.csv
+│   ├── members.csv
+│   ├── Payerscsv
+│   ├── Providers.csv
 │   └── synthetic_healthcare_claims_analytics.xlsx
 │
 ├── sql/
@@ -1293,7 +1297,7 @@ healthcare-claims-analytics/
 │   └── 16_Validation_Checks.sql
 │
 ├── powerbi/
-│   └── Healthcare_Claims_Analytics.pbix
+│   └── Healthcare Claims.pbix
 │
 ├── screenshots/
 │   ├── 01_Executive_Overview.png
