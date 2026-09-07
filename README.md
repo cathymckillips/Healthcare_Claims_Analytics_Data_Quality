@@ -768,6 +768,7 @@ Identify denial patterns and potential drivers.
 
 ### Key Metrics
 
+- Claim Lines
 - Denied Claim Lines
 - Denial Rate
 - Denied Billed Amount
@@ -777,11 +778,10 @@ Identify denial patterns and potential drivers.
 
 Denials are evaluated by:
 
-- Denial reason
-- Payer
-- Provider specialty
-- Time
-- Other relevant dimensions
+- Denial Claim Lines by Reason
+- Denial by Payers
+- Denial by Provider Specialty
+- Detailed Denial Claims
 
 The project includes synthetic denial categories such as:
 
@@ -825,21 +825,18 @@ DIVIDE(
 
 The report compares:
 
-- Billed amount by payer
-- Allowed amount by payer
-- Paid amount by payer
-- Claim-line volume
-- Denial performance
+- Billed Amount by Payer
+- Allowed Amount by Payer
+- Payer Financial Performance
+- Denial by Payers
 
 ### Provider Analysis
 
 Provider performance can be analyzed by:
 
 - Specialty
-- Network status
-- Paid amount
-- Allowed rate
-- Denial rate
+- Network Status
+- Paid Amount
 
 This page moves beyond record counts and begins evaluating differences in reimbursement and operational performance.
 
@@ -925,7 +922,6 @@ CALCULATE(
 - Average Adjudication Days by Payer
 - Lifecycle by Claim Status
 - Claims by Service Date
-- Claims-processing trend analysis
 
 This page is designed to answer:
 
