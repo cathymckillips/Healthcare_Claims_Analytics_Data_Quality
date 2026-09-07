@@ -1,0 +1,13 @@
+﻿Provider_ID,Provider_Name,Specialty,State,Network_Status
+PRV001,Synthetic Provider 01,Dermatology,AL,In Network
+PRV002,Synthetic Provider 02,Cardiology,TN,In Network
+PRV003,Synthetic Provider 03,Primary Care,AL,In Network
+PRV004,Synthetic Provider 04,Cardiology,TN,Out of Network
+PRV005,Synthetic Provider 05,Primary Care,NC,In Network
+PRV006,Synthetic Provider 06,Primary Care,AL,In Network
+PRV007,Synthetic Provider 07,Dermatology,TN,Out of Network
+PRV008,Synthetic Provider 08,Dermatology,NC,Out of Network
+PRV009,Synthetic Provider 09,Radiology,AL,In Network
+PRV010,Synthetic Provider 10,Behavioral Health,AL,Out of Network
+PRV011,Synthetic Provider 11,Orthopedics,TX,Out of Network
+PRV012,Synthetic Provider 12,Radiology,AL,In Network

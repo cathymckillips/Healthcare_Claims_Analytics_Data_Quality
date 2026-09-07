@@ -1,0 +1,4 @@
+﻿Payer_ID,Payer_Name,Payer_Type
+PAY001,Northstar Health Plan,Commercial
+PAY002,CommunityCare Advantage,Medicare Advantage
+PAY003,SunCoast Managed Care,Medicaid Managed Care
